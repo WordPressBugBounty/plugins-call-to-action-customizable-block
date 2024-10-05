@@ -1,0 +1,13 @@
+{
+  "name": "call-to-action-block",
+  "version": "1.0.0",
+  "description": "Easily add customizable call to action blocks in your posts and pages with the Call To Action Customizable Block for Gutenberg.",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^24.2.1"
+  }
+}
