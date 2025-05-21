@@ -2,10 +2,11 @@
 /**
  * Plugin Name: Call to Action Customizable Block
  * Author: Bhavesh Khadodara
- * Version: 1.1.2
+ * Version: 1.1.3
  * License: GPL2+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  * Description: Call to Action Gutenberg Block.
+ * Playground: true
  */
 
 defined( 'ABSPATH' ) || exit;
