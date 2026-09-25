@@ -1,8 +1,8 @@
 === Call To Action Customizable Block ===
 Contributors: Bhaveshkhadodara
 Tags: Block, Call, Action, Gutenberg, easy
-Tested up to: 6.8.1
-Stable tag: 1.1.3
+Tested up to: 7.1.2
+Stable tag: 1.1.4
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -40,6 +40,9 @@ The Call To Action Customizable Block is designed to work with all WordPress the
 If you encounter any issues, please contact support through the WordPress plugin support forum. We'll be happy to assist you.
 
 == Changelog ==
+= 1.1.4 =
+* Minor bug fixes
+
 = 1.1.3 =
 * Minor bug fixes
 
